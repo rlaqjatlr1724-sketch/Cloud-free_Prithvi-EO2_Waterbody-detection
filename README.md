@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Status-Research-orange.svg" alt="Status">
 </p>
 
-<h1 align="center">☁️ Cloud-Robust Water Body Detection</h1>
+<h1 align="center">☁️ Cloud-Free Water Body Detection</h1>
 <h3 align="center">Fine-Tuning NASA's Prithvi-EO-2.0 Foundation Model for<br>Cloud Removal and Multi-Modal SAR-Optical Fusion</h3>
 
 <p align="center">
